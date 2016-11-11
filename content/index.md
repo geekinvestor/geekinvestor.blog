@@ -7,7 +7,7 @@ weight: 0
 
 ## Beautiful documentation
 
-你好，我现在试一下中文。
+你好，我现在试一下中文。I'm testing this only.
 
 Material is a theme for [Hugo](https://gohugo.io), a fast and flexible static site generator. It is built using Google's [material design](https://www.google.com/design/spec/material-design/introduction.html)
 guidelines, fully responsive, optimized for touch and pointer devices as well
