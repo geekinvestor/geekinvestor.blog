@@ -1,7 +1,7 @@
 +++
-draft = true
+draft = false
 title = "good to great"
-date = "2016-11-03T22:15:51-04:00"
+date = "2016-11-10T23:40:17-05:00"
 
 +++
 
