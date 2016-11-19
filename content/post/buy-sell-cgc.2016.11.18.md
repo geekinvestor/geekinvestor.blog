@@ -1,6 +1,6 @@
 +++
-date = "2016-11-18T20:48:48-05:00"
-draft = true
+date = "2016-11-18T21:20:03-05:00"
+draft = false
 title = "Buy and Sell Canopy Growth Corp (CGC.TO)"
 
 +++
